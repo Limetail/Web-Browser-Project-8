@@ -1,0 +1,10 @@
+D:\THE GAME FOLDER\7zip Files\Web Browser Project 8\Web Browser Project 8\bin\Debug\Web Browser Project 8.exe.config
+D:\THE GAME FOLDER\7zip Files\Web Browser Project 8\Web Browser Project 8\bin\Debug\Web Browser Project 8.exe
+D:\THE GAME FOLDER\7zip Files\Web Browser Project 8\Web Browser Project 8\bin\Debug\Web Browser Project 8.pdb
+D:\THE GAME FOLDER\7zip Files\Web Browser Project 8\Web Browser Project 8\obj\Debug\Web Browser Project 8.csprojAssemblyReference.cache
+D:\THE GAME FOLDER\7zip Files\Web Browser Project 8\Web Browser Project 8\obj\Debug\Web_Browser_Project_8.FrmMain.resources
+D:\THE GAME FOLDER\7zip Files\Web Browser Project 8\Web Browser Project 8\obj\Debug\Web_Browser_Project_8.Properties.Resources.resources
+D:\THE GAME FOLDER\7zip Files\Web Browser Project 8\Web Browser Project 8\obj\Debug\Web Browser Project 8.csproj.GenerateResource.cache
+D:\THE GAME FOLDER\7zip Files\Web Browser Project 8\Web Browser Project 8\obj\Debug\Web Browser Project 8.csproj.CoreCompileInputs.cache
+D:\THE GAME FOLDER\7zip Files\Web Browser Project 8\Web Browser Project 8\obj\Debug\Web Browser Project 8.exe
+D:\THE GAME FOLDER\7zip Files\Web Browser Project 8\Web Browser Project 8\obj\Debug\Web Browser Project 8.pdb
